@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "https://geetesh2.github.io/csb-61osen/static/js/main.879f122a.chunk.js",
+    "main.js.map": "https://geetesh2.github.io/csb-61osen/static/js/main.879f122a.chunk.js.map",
+    "runtime-main.js": "https://geetesh2.github.io/csb-61osen/static/js/runtime-main.e57e0530.js",
+    "runtime-main.js.map": "https://geetesh2.github.io/csb-61osen/static/js/runtime-main.e57e0530.js.map",
+    "static/js/2.17e1ab02.chunk.js": "https://geetesh2.github.io/csb-61osen/static/js/2.17e1ab02.chunk.js",
+    "static/js/2.17e1ab02.chunk.js.map": "https://geetesh2.github.io/csb-61osen/static/js/2.17e1ab02.chunk.js.map",
+    "index.html": "https://geetesh2.github.io/csb-61osen/index.html",
+    "precache-manifest.47af410214a9ccbc55d5480ca5283548.js": "https://geetesh2.github.io/csb-61osen/precache-manifest.47af410214a9ccbc55d5480ca5283548.js",
+    "service-worker.js": "https://geetesh2.github.io/csb-61osen/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e57e0530.js",
+    "static/js/2.17e1ab02.chunk.js",
+    "static/js/main.879f122a.chunk.js"
+  ]
+}
